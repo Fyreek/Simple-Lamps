@@ -1,0 +1,8 @@
+#German DE Language File
+
+#Creative Tab
+itemGroup.tab_Creative=Simple Lamps
+
+#Blocks
+tile.basiclamp_block.name=Schlichte Lampe
+tile.flatwalllamp_block.name=Flache Wandlampe

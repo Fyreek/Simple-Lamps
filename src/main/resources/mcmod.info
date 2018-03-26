@@ -1,0 +1,16 @@
+[
+{
+  "modid": "simplelamps",
+  "name": "Simple Lamps",
+  "description": "A Mod that adds some simple Lamps.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "www.fyreek.com",
+  "updateUrl": "",
+  "authorList": ["Fyreek"],
+  "credits": "Fyreek for the mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
